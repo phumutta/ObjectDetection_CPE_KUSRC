@@ -24,4 +24,8 @@ Download https://drive.google.com/drive/folders/1zxfmNpSWc7GkgJwNcutAx_K1uXtAdlV
 3. เมื่อเปิดไฟล์แล้วให้ทำการ runcode แล้วจะขึ้นหน้าโปรแกรม
 4. เลือก model และ ประเภท ที่ต้องการ detect แล้วกดปุ่ม Start
 5. หากต้องการ Capture หน้าจอการ detect ให้กดที่ปุ่ม Capture แล้วโปรแกรมจะแสดงรูปทางด้านขวาของโปรแกรม
-6. เมื่อต้องการหยุดการ detect ของโปรแกรม ให้กดปุ่ม Stop 
+6. เมื่อต้องการหยุดการ detect ของโปรแกรม ให้กดปุ่ม Stop
+
+ดังตัวอย่างด้านล่างนี้
+
+![](https://camo.githubusercontent.com/f48d27ade3e89fcecd6d3baebb4a23f45d4f0c4c/68747470733a2f2f7777772e696d672e6c6976652f696d616765732f323031392f30342f32372f436170747572652e706e67)
