@@ -23,4 +23,5 @@ Download https://drive.google.com/drive/folders/1zxfmNpSWc7GkgJwNcutAx_K1uXtAdlV
 2. ทำการเปิดโปรแกรม จาก folder detection ในไฟล์ที่มีชื่อว่า objectdetection3
 3. เมื่อเปิดไฟล์แล้วให้ทำการ runcode แล้วจะขึ้นหน้าโปรแกรม
 4. เลือก model และ ประเภท ที่ต้องการ detect แล้วกดปุ่ม Start
-5. เมื่อต้องการหยุดการ detect ของโปรแกรม ให้กดปุ่ม Stop 
+5. หากต้องการ Capture หน้าจอการ detect ให้กดที่ปุ่ม Capture แล้วโปรแกรมจะแสดงรูปทางด้านขวาของโปรแกรม
+6. เมื่อต้องการหยุดการ detect ของโปรแกรม ให้กดปุ่ม Stop 
